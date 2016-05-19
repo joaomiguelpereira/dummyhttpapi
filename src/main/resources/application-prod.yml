@@ -1,0 +1,12 @@
+logging:
+  level:
+    org.springframework.security: INFO
+    eu.jpereira: DEBUG
+
+database:
+  host: ds025772.mlab.com
+  port: 25772
+  name: dummyapi
+  user: api_user
+  password: F9muhHw7EC8RV2
+

@@ -1,0 +1,12 @@
+logging:
+  level:
+    org.springframework.security: INFO
+    eu.jpereira: DEBUG
+
+database:
+  host: localhost
+  port: 27017
+  name: dummyapi
+  user:
+  password:
+
